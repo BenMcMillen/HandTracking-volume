@@ -1,6 +1,6 @@
 # References
-https://dev.to/0xkoji/control-mac-sound-volume-by-python-h4g
-https://www.youtube.com/watch?v=a7B5EZVHHkw&t=21s
+- https://dev.to/0xkoji/control-mac-sound-volume-by-python-h4g
+- https://www.youtube.com/watch?v=a7B5EZVHHkw&t=21s
 
 # HandTracking-Volume
 This project uses AI to adjust the volume of a mac book using handtracking with python via a camera.
